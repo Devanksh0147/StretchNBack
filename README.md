@@ -15,7 +15,7 @@ A lightweight Windows utility to quickly switch resolutions, create presets, and
 
 ## Download
 
-👉 Download the latest version from Releases
+👉 [Download Latest Release](https://github.com/Devanksh0147/StretchNBack/releases)
 
 ---
 
